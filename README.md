@@ -51,3 +51,9 @@ remote-search-sms answers web searches by text, for a phone with no data and a s
 Prompt-Baking bakes a system prompt into a LoRA adapter, and it fits on an 8 GB GPU ([Repo](https://github.com/SomethingObvious/Prompt-Baking)).
 
 tiktok-activity-data-scraper turns your TikTok data export into a report of what you watch most ([Repo](https://github.com/SomethingObvious/tiktok-activity-data-scraper)).
+
+## Viewfinder
+
+A free webcam app that turns a Canon EOS Rebel T3, a camera Canon's EOS Webcam Utility leaves out, into a Windows 11 webcam. It keeps exposure and white balance steady, holds focus on your face and cleans each frame with NVIDIA's VideoSuperRes, and it takes other EOS, Nikon and Sony cameras and ordinary webcams too. These are the app's own offscreen renders, with a test pattern standing in for the camera ([Site](https://somethingobvious.github.io/viewfinder/), [Repo](https://github.com/SomethingObvious/viewfinder)).
+
+<a href="https://somethingobvious.github.io/viewfinder/"><img src="assets/viewfinder.webp" width="100%" alt="The Viewfinder window with a test pattern, then its focus settings, then Setup checking the virtual camera, the camera and NVIDIA's Video Effects"></a>
